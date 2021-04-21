@@ -1,0 +1,13 @@
+fieldset{
+    border-radius: 2em;
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+    text-shadow: 4px 4px 5px red, -4px -4px 5px grey;
+}
+#result{
+    margin-left: 400px;
+    text-shadow: 4px 4px 5px red, -4px -4px 5px grey;
+}
